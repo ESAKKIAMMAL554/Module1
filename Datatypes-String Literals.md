@@ -11,11 +11,12 @@ To write a Python program to read a string from the user and then print it.
 ## 🧾 Program
 ```
 men_stepped_on_the_moon=input()
-
 print(men_stepped_on_the_moon)
 ```
 ## Output
-<img width="685" height="208" alt="image" src="https://github.com/user-attachments/assets/1d857887-53a8-4a08-bff0-42b65147c9ea" />
+
+<img width="862" height="137" alt="image" src="https://github.com/user-attachments/assets/68f80736-bf0f-4cf6-bed6-2381981477bd" />
+
 
 ## Result
-Thus, the program has been successfully execute.
+Thus,the Python program to read a string from the user and then print it is created successfully.
